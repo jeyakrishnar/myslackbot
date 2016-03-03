@@ -1,4 +1,9 @@
 {
+
+  "repository": {
+  "type": "git",
+  "url": "git@github.com:jeyakrishnar/myslackbot.git"
+  },
   "name": "myslackbot",
   "version": "1.0.0",
   "description": "experiment webhooks",
