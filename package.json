@@ -1,0 +1,15 @@
+{
+  "name": "myslackbot",
+  "version": "1.0.0",
+  "description": "experiment webhooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "/testjk"
+  },
+  "dependencies": {
+    "express": "^4.x.x",
+    "body-parser": "^1.x.x"
+  },
+  "author": "jramamoorthy",
+  "license": "ISC"
+}
