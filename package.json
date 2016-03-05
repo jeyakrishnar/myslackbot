@@ -9,7 +9,7 @@
   "description": "experiment webhooks",
   "main": "index.js",
   "scripts": {
-    "test": "/testjk"
+    "start": "node app.js"
   },
   "dependencies": {
     "express": "^4.x.x",
